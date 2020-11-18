@@ -1,0 +1,27 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{803FD0C6-D64E-4E16-9DC3-1DAEC859A3D2}") = "RelayRTOS", "RelayRTOS.vgdbcmake", "{24E411A1-26E7-4371-9D35-6E0FF3B3ECCE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|VisualGDB = Debug|VisualGDB
+		Release|VisualGDB = Release|VisualGDB
+		RelWithFlashExtMem|VisualGDB = RelWithFlashExtMem|VisualGDB
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24E411A1-26E7-4371-9D35-6E0FF3B3ECCE}.Debug|VisualGDB.ActiveCfg = Debug|VisualGDB
+		{24E411A1-26E7-4371-9D35-6E0FF3B3ECCE}.Debug|VisualGDB.Build.0 = Debug|VisualGDB
+		{24E411A1-26E7-4371-9D35-6E0FF3B3ECCE}.Release|VisualGDB.ActiveCfg = Release|VisualGDB
+		{24E411A1-26E7-4371-9D35-6E0FF3B3ECCE}.Release|VisualGDB.Build.0 = Release|VisualGDB
+		{24E411A1-26E7-4371-9D35-6E0FF3B3ECCE}.RelWithFlashExtMem|VisualGDB.ActiveCfg = RelWithFlashExtMem|VisualGDB
+		{24E411A1-26E7-4371-9D35-6E0FF3B3ECCE}.RelWithFlashExtMem|VisualGDB.Build.0 = RelWithFlashExtMem|VisualGDB
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D918A6C5-E3D3-474D-AF34-F6BF6FD78FB7}
+	EndGlobalSection
+EndGlobal
