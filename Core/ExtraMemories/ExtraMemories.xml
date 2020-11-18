@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<ArrayOfExtraMemoryDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ExtraMemoryDefinition>
+    <Name>SPI_FLASH</Name>
+    <Address>2415919104</Address>
+    <Size>16777216</Size>
+    <Type>FLASH</Type>
+    <ContainsText>false</ContainsText>
+    <ContainsData>true</ContainsData>
+    <ContainsBSS>false</ContainsBSS>
+    <GenerateBinFile>false</GenerateBinFile>
+    <PreserveUnusedSymbols>true</PreserveUnusedSymbols>
+    <NoAutoLoad>false</NoAutoLoad>
+  </ExtraMemoryDefinition>
+</ArrayOfExtraMemoryDefinition>
